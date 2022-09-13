@@ -1,11 +1,19 @@
-https://docs.google.com/document/d/11cuU83BNTNovoftWbA7RIprsn0p5vrBq5JgaqqXEsOU/edit
-
-css trix
-
-o before e after são pseudo elementos
-
+Data:12/09/2022
+Prof:Hugo Pinheiro
+Não é necessário entregar essa mesa
 Mesa 6
+------------
 Flavio
 Vivi
 Ronaldo 
 Wagner
+
+
+Link da mesa -> https://docs.google.com/document/d/11cuU83BNTNovoftWbA7RIprsn0p5vrBq5JgaqqXEsOU/edit
+Link do Notion -> https://aula-feliz.notion.site/19-Anima-es-CSS-db07f60c08994488be165b4d34752a40
+Link do código feito em aula -> https://codesandbox.io/s/competent-darwin-10v9pv
+Link da mesa de hoje -> https://docs.google.com/document/d/11cuU83BNTNovoftWbA7RIprsn0p5vrBq5JgaqqXEsOU/preview
+Link sobre Transition -> https://css-tricks.com/almanac/properties/t/transition/
+Link sobre Animation -> https://css-tricks.com/almanac/properties/a/animation/
+CSS Tricks -> https://css-tricks.com/
+Animitas -> https://animista.net/
