@@ -1,0 +1,11 @@
+https://docs.google.com/document/d/11cuU83BNTNovoftWbA7RIprsn0p5vrBq5JgaqqXEsOU/edit
+
+css trix
+
+o before e after são pseudo elementos
+
+Mesa 6
+Flavio
+Vivi
+Ronaldo 
+Wagner
